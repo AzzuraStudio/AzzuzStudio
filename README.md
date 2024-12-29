@@ -68,7 +68,7 @@
     <p style="color: #FFF;">Simplifying creative workflows.</p>
     <p style="color: #39FF14;">📅 Published: January 2024 | 🔖 Label: UI/UX</p>
     <p align="center">
-      <img src="https://img.shields.io/badge/Label-UI%2FUX-39FF14?style=for-the-badge" alt="UI/UX">
+      <img src="https://img.shields.io/badge/Label-UI%2FUX-ff1c14?style=for-the-badge" alt="UI/UX">
     </p>
   </div>
 
@@ -77,7 +77,7 @@
     <p style="color: #FFF;">Your go-to coding toolkit.</p>
     <p style="color: #39FF14;">📅 Published: December 2022 | 🔖 Label: Development</p>
     <p align="center">
-      <img src="https://img.shields.io/badge/Label-Development-39FF14?style=for-the-badge" alt="Development">
+      <img src="https://img.shields.io/badge/Label-Development-ff8614?style=for-the-badge" alt="Development">
     </p>
   </div>
 </div>
@@ -86,9 +86,9 @@
 
 ## **🎓 My Certificates**
 <div align="center">
-  <img src="https://img.shields.io/badge/Certificate-AI%20Fundamentals-39FF14?style=for-the-badge" alt="Certificate AI Fundamentals">
-  <img src="https://img.shields.io/badge/Certificate-Cybersecurity%20Basics-39FF14?style=for-the-badge" alt="Certificate Cybersecurity">
-  <img src="https://img.shields.io/badge/Certificate-FullStack%20Development-39FF14?style=for-the-badge" alt="Certificate FullStack">
+  <img src="https://img.shields.io/badge/Certificate-AI%20Fundamentals-2814ff?style=for-the-badge" alt="Certificate AI Fundamentals">
+  <img src="https://img.shields.io/badge/Certificate-Cybersecurity%20Basics-ff14c8?style=for-the-badge" alt="Certificate Cybersecurity">
+  <img src="https://img.shields.io/badge/Certificate-FullStack%20Development-f7ff14?style=for-the-badge" alt="Certificate FullStack">
 </div>
 
 ---
