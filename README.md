@@ -93,4 +93,12 @@
 
 ---
 
+## **💡 Hacking Vibes**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/HhTXt43pk1I1W/giphy.gif" alt="Hacking Animation" width="700">
+</p>
+
+---
+
 <h3 align="center" style="color: #39FF14; text-shadow: 0px 0px 20px cyan;">✨ Innovating the Future at AzzuraStudio ✨</h3>
