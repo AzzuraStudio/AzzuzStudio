@@ -7,7 +7,7 @@
 <h1 align="center" style="color: #39ff14; text-shadow: 0px 0px 20px cyan;">⚡ AzzuraStudio ⚡</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Hacking Animation" width="600">
+  <img src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Hacking Animation" width="600">
 </p>
 
 ---
