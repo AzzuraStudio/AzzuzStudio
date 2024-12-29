@@ -20,32 +20,19 @@
 - 🛠️ **Passionate about:** Automation, AI, and ethical hacking.  
 - 🌍 Exploring the intersection of **technology** and **design**.  
 - 📫 Connect with me: [azzurastudio@gmail.com](mailto:azzurastudio@gmail.com).  
+- 🏆 **Joined GitHub in**: 2021.
 
 ---
 
 ## 🌍 **I Am From India**
 
-<div align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Indian Flag Animation" width="400">
-</div>
+</p>
 
 <p align="center" style="color: #39FF14; font-size: 18px;">
   Proudly representing 🇮🇳 <strong>India</strong>, the land of innovation and culture.
 </p>
-
----
-
-## 🛠️ **Tech Stack**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</div>
 
 ---
 
@@ -55,19 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AzzuraStudio&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" height="180">
   <img src="https://streak-stats.demolab.com?user=AzzuraStudio&theme=radical" alt="GitHub Streak Stats" height="180">
 </div>
-
----
-
-## 🌌 **Activity Graph**
-
-<div align="center">
-  <h2 style="color: #39ff14; text-shadow: 0px 0px 10px #39ff14;">🚀 Daily Activity Tracker 🚀</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzzuraStudio&theme=react-dark&hide_border=true&color=39FF14" alt="GitHub Activity Graph">
-</div>
-
----
-
-## 🧮 **GitHub Stats Overview**
 
 <p align="center" style="color: #39FF14; font-size: 18px;">
   <strong>Total Repositories:</strong>  
@@ -96,9 +70,39 @@
 
 ## 🚀 **Projects**
 
-1. **[Future Vision](#)** - A cutting-edge platform for AI-powered solutions.  
-2. **[CyberShield](#)** - A toolkit for ethical hackers.  
-3. **[DesignDeck](#)** - Simplifying creative workflows.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="border: 2px solid #39FF14; padding: 20px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); box-shadow: 0px 0px 15px cyan;">
+        <h3 style="color: #39FF14;">Future Vision</h3>
+        <p style="color: #FFF;">A cutting-edge platform for AI-powered solutions.</p>
+      </td>
+      <td align="center" style="border: 2px solid #39FF14; padding: 20px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); box-shadow: 0px 0px 15px cyan;">
+        <h3 style="color: #39FF14;">CyberShield</h3>
+        <p style="color: #FFF;">A toolkit for ethical hackers.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: 2px solid #39FF14; padding: 20px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); box-shadow: 0px 0px 15px cyan;">
+        <h3 style="color: #39FF14;">DesignDeck</h3>
+        <p style="color: #FFF;">Simplifying creative workflows.</p>
+      </td>
+      <td align="center" style="border: 2px solid #39FF14; padding: 20px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); box-shadow: 0px 0px 15px cyan;">
+        <h3 style="color: #39FF14;">CodeCraft</h3>
+        <p style="color: #FFF;">Your go-to coding toolkit.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🌌 **Activity Graph**
+
+<div align="center">
+  <h2 style="color: #39ff14; text-shadow: 0px 0px 10px #39ff14;">🚀 Daily Activity Tracker 🚀</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzzuraStudio&theme=react-dark&hide_border=true&color=39FF14" alt="GitHub Activity Graph">
+</div>
 
 ---
 
