@@ -27,19 +27,15 @@
 
 ## **📊 GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AzzuraStudio&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" height="180">
-  <img src="https://streak-stats.demolab.com?user=AzzuraStudio&theme=radical" alt="GitHub Streak Stats" height="180">
+  <!-- GitHub Stats with Contributions, Streaks -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AzzuraStudio&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzzuraStudio&theme=radical" alt="Current Streak" height="180">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzzuraStudio&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="180">
+  
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AzzuraStudio&bg_color=000000&color=39FF14&line=00FF00&point=39FF14&area=true&area_color=2F4F4F" alt="GitHub Activity" height="180">
 </div>
-
-<p align="center" style="color: #39FF14; font-size: 18px;">
-  <strong>Total Followers:</strong>  
-  <img src="https://img.shields.io/github/followers/AzzuraStudio?style=flat-square&color=39FF14" alt="Followers Count">
-</p>
-
-<p align="center" style="color: #39FF14; font-size: 18px;">
-  <strong>Total Visitors:</strong>  
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AzzuraStudio&color=39FF14" alt="Visitors Count">
-</p>
 
 ---
 
