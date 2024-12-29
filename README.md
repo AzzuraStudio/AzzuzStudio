@@ -23,6 +23,18 @@
 
 ---
 
+## 🌍 **I Am From India**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Indian Flag Animation" width="400">
+</div>
+
+<p align="center" style="color: #39FF14; font-size: 18px;">
+  Proudly representing 🇮🇳 <strong>India</strong>, the land of innovation and culture.
+</p>
+
+---
+
 ## 🛠️ **Tech Stack**
 
 <div align="center">
@@ -55,10 +67,29 @@
 
 ---
 
+## 🧮 **GitHub Stats Overview**
+
+<p align="center" style="color: #39FF14; font-size: 18px;">
+  <strong>Total Repositories:</strong>  
+  <img src="https://img.shields.io/github/repos/AzzuraStudio?style=flat-square&color=39FF14">
+</p>
+
+<p align="center" style="color: #39FF14; font-size: 18px;">
+  <strong>Total Followers:</strong>  
+  <img src="https://img.shields.io/github/followers/AzzuraStudio?style=flat-square&color=39FF14">
+</p>
+
+<p align="center" style="color: #39FF14; font-size: 18px;">
+  <strong>Total Visitors:</strong>  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AzzuraStudio&color=39FF14">
+</p>
+
+---
+
 ## 🔥 **Hacking Vibes**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/HhTXt43pk1I1W/giphy.gif" alt="Hacking Animation" width="700">
+  <img src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Hacking Animation" width="600">
 </p>
 
 ---
