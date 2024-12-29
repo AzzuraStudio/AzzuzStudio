@@ -50,7 +50,7 @@
     <p style="color: #FFF;">A cutting-edge platform for AI-powered solutions.</p>
     <p style="color: #39FF14;">📅 Published: June 2024 | 🔖 Label: AI & Tech</p>
     <p align="center">
-      <img src="https://img.shields.io/badge/Label-AI%20&%20Tech-39FF14?style=for-the-badge" alt="AI & Tech">
+      <img src="https://img.shields.io/badge/Label-AI%20&%20Tech-c8ff14?style=for-the-badge" alt="AI & Tech">
     </p>
   </div>
   
@@ -59,7 +59,7 @@
     <p style="color: #FFF;">A toolkit for ethical hackers.</p>
     <p style="color: #39FF14;">📅 Published: March 2023 | 🔖 Label: Security</p>
     <p align="center">
-      <img src="https://img.shields.io/badge/Label-Security-39FF14?style=for-the-badge" alt="Security">
+      <img src="https://img.shields.io/badge/Label-Security-14ffd4?style=for-the-badge" alt="Security">
     </p>
   </div>
 
@@ -68,7 +68,7 @@
     <p style="color: #FFF;">Simplifying creative workflows.</p>
     <p style="color: #39FF14;">📅 Published: January 2024 | 🔖 Label: UI/UX</p>
     <p align="center">
-      <img src="https://img.shields.io/badge/Label-UI%2FUX-ff1c14?style=for-the-badge" alt="UI/UX">
+      <img src="https://img.shields.io/badge/Label-UI%2FUX-148dff?style=for-the-badge" alt="UI/UX">
     </p>
   </div>
 
