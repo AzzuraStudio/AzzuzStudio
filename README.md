@@ -32,11 +32,6 @@
 </div>
 
 <p align="center" style="color: #39FF14; font-size: 18px;">
-  <strong>Total Repositories:</strong>  
-  <img src="https://img.shields.io/github/repos/AzzuraStudio?style=flat-square&color=39FF14" alt="Repositories Count">
-</p>
-
-<p align="center" style="color: #39FF14; font-size: 18px;">
   <strong>Total Followers:</strong>  
   <img src="https://img.shields.io/github/followers/AzzuraStudio?style=flat-square&color=39FF14" alt="Followers Count">
 </p>
@@ -50,48 +45,40 @@
 
 ## **🚀 My Projects**
 <div align="center" style="width: 100%;">
-  <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px cyan;">
+  <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px #39FF14; border: 3px solid #39FF14;">
     <h2 style="color: #39FF14;">Future Vision</h2>
     <p style="color: #FFF;">A cutting-edge platform for AI-powered solutions.</p>
     <p style="color: #39FF14;">📅 Published: June 2024 | 🔖 Label: AI & Tech</p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Label-AI%20&%20Tech-39FF14?style=for-the-badge" alt="AI & Tech">
+    </p>
   </div>
   
-  <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px cyan;">
+  <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px #39FF14; border: 3px solid #39FF14;">
     <h2 style="color: #39FF14;">CyberShield</h2>
     <p style="color: #FFF;">A toolkit for ethical hackers.</p>
     <p style="color: #39FF14;">📅 Published: March 2023 | 🔖 Label: Security</p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Label-Security-39FF14?style=for-the-badge" alt="Security">
+    </p>
   </div>
 
-  <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px cyan;">
+  <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px #39FF14; border: 3px solid #39FF14;">
     <h2 style="color: #39FF14;">DesignDeck</h2>
     <p style="color: #FFF;">Simplifying creative workflows.</p>
     <p style="color: #39FF14;">📅 Published: January 2024 | 🔖 Label: UI/UX</p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Label-UI%2FUX-39FF14?style=for-the-badge" alt="UI/UX">
+    </p>
   </div>
 
-  <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px cyan;">
+  <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px #39FF14; border: 3px solid #39FF14;">
     <h2 style="color: #39FF14;">CodeCraft</h2>
     <p style="color: #FFF;">Your go-to coding toolkit.</p>
     <p style="color: #39FF14;">📅 Published: December 2022 | 🔖 Label: Development</p>
-  </div>
-</div>
-
----
-
-## **📂 Total Archive Labels**
-<div align="center" style="width: 100%;">
-  <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px cyan;">
-    <h2 style="color: #39FF14;">Label: AI & Tech</h2>
-    <p style="color: #FFF;">4 Projects Archived</p>
-  </div>
-  
-  <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px cyan;">
-    <h2 style="color: #39FF14;">Label: Security</h2>
-    <p style="color: #FFF;">3 Projects Archived</p>
-  </div>
-
-  <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px cyan;">
-    <h2 style="color: #39FF14;">Label: Development</h2>
-    <p style="color: #FFF;">5 Projects Archived</p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Label-Development-39FF14?style=for-the-badge" alt="Development">
+    </p>
   </div>
 </div>
 
