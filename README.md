@@ -41,8 +41,8 @@
 ## 📈 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AzzuzStudio&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" height="180">
-  <img src="https://streak-stats.demolab.com/?user=AzzuzStudio&theme=tokyonight" alt="GitHub Streak Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=AzzuraStudio&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" height="180">
+  <img src="https://streak-stats.demolab.com/?user=AzzuraStudio&theme=tokyonight" alt="GitHub Streak Stats" height="180">
 </div>
 
 ---
@@ -50,7 +50,7 @@
 ## 🌌 **GitHub Activity Graph**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzzuzStudio&theme=react-dark&hide_border=true&color=39FF14" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzzuraStudio&theme=react-dark&hide_border=true&color=39FF14" alt="GitHub Activity Graph">
 </div>
 
 ---
