@@ -33,8 +33,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzzuraStudio&theme=radical" alt="Current Streak" height="180">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzzuraStudio&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="180">
-  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AzzuraStudio&bg_color=000000&color=39FF14&line=00FF00&point=39FF14&area=true&area_color=2F4F4F" alt="GitHub Activity" height="180">
+</div>
+
+---
+
+## **🎯 GitHub Activity Graph**
+<div align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AzzuraStudio&bg_color=000000&color=39FF14&line=00FF00&point=39FF14&area=true&area_color=2F4F4F" alt="GitHub Activity Graph" height="180">
 </div>
 
 ---
@@ -43,6 +49,14 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AzzuraStudio&theme=radical&row=1&column=3&margin-w=10&margin-h=10" alt="GitHub Trophy">
 </div>
+
+---
+
+## **🚀 Daily Activity Tracker**
+<p align="center">
+  <!-- Custom Daily Activity Tracker -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=AzzuraStudio&theme=radical&area=true&area_color=39FF14&line=00FF00" alt="Daily Activity Tracker" width="100%" />
+</p>
 
 ---
 
