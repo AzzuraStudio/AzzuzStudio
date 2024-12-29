@@ -1,3 +1,14 @@
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=45&pause=1200&color=39FF14&center=true&vCenter=true&width=900&lines=Welcome+to+AzzuraStudio;Innovating+the+Future;Coding+the+Extraordinary" alt="Main Header Animation">
+</div>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Hacking Animation" width="600">
+</p>
+
+
+
 # 💫 About Me:
 👨‍💻 Name: AzzuraStudio  <br>🌍 Location: India  <br>🛠️ Expertise: Automation, AI, Ethical Hacking, and Software Development  <br>🎯 Focus: Building innovative solutions for the future  <br>🎮 Hobby: Gaming and Coding  <br>📧 Email: azzurastudio@gmail.com  <br>🌱 GitHub Member Since: 2021  <br>💻 Tech Stack: Python, JavaScript, Node.js, React, AI, Cybersecurity  <br>⚡ Goals: To create impactful software that drives change  <br>🎥 YouTube: AzzuraStudio  <br>📚 Learning: Constantly evolving in the world of tech  <br>
 
@@ -27,5 +38,66 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AzzuraStudio) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AzzuraStudio) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/AzzuraStudio) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/AzzuraStudio) 
 
+## **💡 Hacking Vibes**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/HhTXt43pk1I1W/giphy.gif" alt="Hacking Animation" width="700">
+</p>
+
+---
+
+## **🚀 My Projects**
+<div align="center" style="width: 100%;">
+  <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px #39FF14; border: 3px solid #39FF14;">
+    <h2 style="color: #39FF14;">Future Vision</h2>
+    <p style="color: #FFF;">A cutting-edge platform for AI-powered solutions.</p>
+    <p style="color: #39FF14;">📅 Published: June 2024 | 🔖 Label: AI & Tech</p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Label-AI%20&%20Tech-c8ff14?style=for-the-badge" alt="AI & Tech">
+    </p>
+  </div>
+  
+  <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px #39FF14; border: 3px solid #39FF14;">
+    <h2 style="color: #39FF14;">CyberShield</h2>
+    <p style="color: #FFF;">A toolkit for ethical hackers.</p>
+    <p style="color: #39FF14;">📅 Published: March 2023 | 🔖 Label: Security</p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Label-Security-14ffd4?style=for-the-badge" alt="Security">
+    </p>
+  </div>
+
+  <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px #39FF14; border: 3px solid #39FF14;">
+    <h2 style="color: #39FF14;">DesignDeck</h2>
+    <p style="color: #FFF;">Simplifying creative workflows.</p>
+    <p style="color: #39FF14;">📅 Published: January 2024 | 🔖 Label: UI/UX</p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Label-UI%2FUX-148dff?style=for-the-badge" alt="UI/UX">
+    </p>
+  </div>
+
+  <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px #39FF14; border: 3px solid #39FF14;">
+    <h2 style="color: #39FF14;">CodeCraft</h2>
+    <p style="color: #FFF;">Your go-to coding toolkit.</p>
+    <p style="color: #39FF14;">📅 Published: December 2022 | 🔖 Label: Development</p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Label-Development-ff8614?style=for-the-badge" alt="Development">
+    </p>
+  </div>
+</div>
+
+
+---
+
+## **🎓 My Certificates**
+<div align="center">
+  <img src="https://img.shields.io/badge/Certificate-AI%20Fundamentals-2814ff?style=for-the-badge" alt="Certificate AI Fundamentals">
+  <img src="https://img.shields.io/badge/Certificate-Cybersecurity%20Basics-ff14c8?style=for-the-badge" alt="Certificate Cybersecurity">
+  <img src="https://img.shields.io/badge/Certificate-FullStack%20Development-f7ff14?style=for-the-badge" alt="Certificate FullStack">
+</div>
+
+
+---
+
+<h3 align="center" style="color: #39FF14; text-shadow: 0px 0px 20px cyan;">✨ Innovating the Future at AzzuraStudio ✨</h3>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
