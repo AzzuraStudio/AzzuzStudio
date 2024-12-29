@@ -1,7 +1,7 @@
 <!-- Advanced Neon Profile for AzzuraStudio -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=45&pause=1200&color=39FF14&center=true&vCenter=true&width=900&lines=Welcome+to+AzzuraStudio;Innovating+the+Future;Coding+the+Extraordinary" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=45&pause=1200&color=39FF14&center=true&vCenter=true&width=900&lines=Welcome+to+AzzuraStudio;Innovating+the+Future;Coding+the+Extraordinary" alt="Main Header Animation">
 </div>
 
 <p align="center">
@@ -10,34 +10,22 @@
 
 ---
 
-### **💡 About Me**
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=35&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=💻+Full-Stack+Developer;✨+Tech+Innovator;🚀+Coding+the+Future!" alt="Typing Animation">
-</div>
-
+## **💡 About Me**
 - 🌍 Innovating with passion and creativity.  
 - 🛠️ Focused on **automation**, **AI**, and **hacking tools**.  
 - 📬 Connect: [azzurastudio@gmail.com](mailto:azzurastudio@gmail.com).  
-- 🏆 **Joined GitHub in**: 2021.
+- 🏆 **Joined GitHub in**: 2021.  
 
 ---
 
-### **🌍 I Am From India**
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=35&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=Representing+🇮🇳+India!" alt="Typing Animation">
-</div>
-
+## **🌍 I Am From India**
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="India Flag Animation" width="400">
 </p>
 
 ---
 
-### **📈 GitHub Stats**
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=35&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=📊+My+GitHub+Stats" alt="Typing Animation">
-</div>
-
+## **📊 GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AzzuraStudio&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" height="180">
   <img src="https://streak-stats.demolab.com?user=AzzuraStudio&theme=radical" alt="GitHub Streak Stats" height="180">
@@ -60,57 +48,60 @@
 
 ---
 
-### **🚀 My Projects**
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=35&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=🚀+Explore+My+Projects" alt="Typing Animation">
-</div>
-
+## **🚀 My Projects**
 <div align="center" style="width: 100%;">
   <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px cyan;">
     <h2 style="color: #39FF14;">Future Vision</h2>
     <p style="color: #FFF;">A cutting-edge platform for AI-powered solutions.</p>
+    <p style="color: #39FF14;">📅 Published: June 2024 | 🔖 Label: AI & Tech</p>
   </div>
   
   <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px cyan;">
     <h2 style="color: #39FF14;">CyberShield</h2>
     <p style="color: #FFF;">A toolkit for ethical hackers.</p>
+    <p style="color: #39FF14;">📅 Published: March 2023 | 🔖 Label: Security</p>
   </div>
 
   <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px cyan;">
     <h2 style="color: #39FF14;">DesignDeck</h2>
     <p style="color: #FFF;">Simplifying creative workflows.</p>
+    <p style="color: #39FF14;">📅 Published: January 2024 | 🔖 Label: UI/UX</p>
   </div>
 
   <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px cyan;">
     <h2 style="color: #39FF14;">CodeCraft</h2>
     <p style="color: #FFF;">Your go-to coding toolkit.</p>
+    <p style="color: #39FF14;">📅 Published: December 2022 | 🔖 Label: Development</p>
   </div>
 </div>
 
 ---
 
-### **🌌 Activity Graph**
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=35&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=🌌+Daily+Activity+Tracker" alt="Typing Animation">
-</div>
+## **📂 Total Archive Labels**
+<div align="center" style="width: 100%;">
+  <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px cyan;">
+    <h2 style="color: #39FF14;">Label: AI & Tech</h2>
+    <p style="color: #FFF;">4 Projects Archived</p>
+  </div>
+  
+  <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px cyan;">
+    <h2 style="color: #39FF14;">Label: Security</h2>
+    <p style="color: #FFF;">3 Projects Archived</p>
+  </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzzuraStudio&theme=react-dark&hide_border=true&color=39FF14" alt="GitHub Activity Graph">
+  <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px cyan;">
+    <h2 style="color: #39FF14;">Label: Development</h2>
+    <p style="color: #FFF;">5 Projects Archived</p>
+  </div>
 </div>
 
 ---
 
-### **🌐 Social Links**
+## **🎓 My Certificates**
 <div align="center">
-  <a href="https://t.me/AzzuraStudio">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/AzzuraStudio">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  <img src="https://img.shields.io/badge/Certificate-AI%20Fundamentals-39FF14?style=for-the-badge" alt="Certificate AI Fundamentals">
+  <img src="https://img.shields.io/badge/Certificate-Cybersecurity%20Basics-39FF14?style=for-the-badge" alt="Certificate Cybersecurity">
+  <img src="https://img.shields.io/badge/Certificate-FullStack%20Development-39FF14?style=for-the-badge" alt="Certificate FullStack">
 </div>
 
 ---
