@@ -43,6 +43,13 @@
 
 ---
 
+## **🏆 GitHub Trophy**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AzzuraStudio&theme=radical&row=1&column=3&margin-w=10&margin-h=10" alt="GitHub Trophy">
+</div>
+
+---
+
 ## **🚀 My Projects**
 <div align="center" style="width: 100%;">
   <div align="center" style="margin: 10px; border-radius: 15px; background: rgba(0, 0, 0, 0.8); padding: 20px; box-shadow: 0px 0px 20px #39FF14; border: 3px solid #39FF14;">
